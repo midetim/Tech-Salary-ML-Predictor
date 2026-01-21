@@ -22,7 +22,7 @@ An interactive Streamlit application for predicting software developer salaries 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd salary-prediction-tool
+   cd projectname
    ```
 3. Install the required packages:
    ```bash
