@@ -18,7 +18,7 @@ An interactive Streamlit application for predicting software developer salaries 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/salary-prediction-tool.git
+   git clone https://github.com/midetim/Tech-Salary-ML-Predictor
    ```
 2. Navigate to the project directory:
    ```bash
