@@ -36,6 +36,3 @@ An interactive Streamlit application for predicting software developer salaries 
 ## Usage
 - **Predict**: Input details to get a salary estimate.
 - **Explore**: Analyze developer trends and demographics.
-
-## License
-MIT License
